@@ -18,6 +18,12 @@ The assessment combines risk-based supplier due diligence, security control eval
 
 The assessment covers five fictional third-party suppliers operating across different business functions.
 
+### Assessment Reference Date
+
+**Assessment reference date: 18 October 2026.**
+
+All risk assessments, remediation statuses, supplier review dates and treatment deadlines are presented as part of a fictional point-in-time scenario and should be interpreted relative to this reference date.
+
 | Supplier Category | Service |
 |---|---|
 | Cloud Provider | Cloud hosting, database management and backups |
