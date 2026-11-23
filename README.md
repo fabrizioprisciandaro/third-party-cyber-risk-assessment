@@ -144,7 +144,8 @@ Treatment strategies focus on privileged access management, backup resilience, A
 
 | Deliverable | Description |
 |---|---|
-| [Third-Party & Cyber Risk Register – XLSX](registers/Third_Party_Cyber_Risk_Assessment_Register.xlsx) | Supplier inventory, risk register, scoring model, framework mapping and treatment plan |
+| [Third-Party & Cyber Risk Register – Enhanced XLSX](registers/Third_Party_Cyber_Risk_Assessment_Register_Enhanced.xlsx) | Enhanced operational workbook featuring automated risk scoring, supplier inventory, evidence traceability, framework mapping and risk treatment plan |
+| [Original Risk Register – XLSX](registers/Third_Party_Cyber_Risk_Assessment_Register.xlsx) | Original version retained for reference and comparison |
 
 ## 9. Key Competencies Demonstrated
 
