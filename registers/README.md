@@ -8,12 +8,15 @@ The enhanced workbook introduces automated risk calculations, evidence traceabil
 
 ## 1. Available Workbooks
 
+## 1. Available Workbooks
+
 | Workbook | Description |
 |---|---|
-| [Enhanced Risk Register](Third_Party_Cyber_Risk_Assessment_Register_Enhanced.xlsx) | Enhanced version with automated scoring, evidence traceability and additional assessment fields |
+| [Enhanced v2 Risk Register](Third_Party_Cyber_Risk_Assessment_Register_Enhanced_v2.xlsx) | Latest version featuring conservative residual risk assessment, revised ISO/NIST mapping and enhanced evidence governance |
+| [Enhanced Risk Register](Third_Party_Cyber_Risk_Assessment_Register_Enhanced.xlsx) | Previous version featuring automated scoring and evidence traceability |
 | [Original Risk Register](Third_Party_Cyber_Risk_Assessment_Register.xlsx) | Original baseline version retained for reference and comparison |
 
-**Recommended version:** Enhanced Risk Register.
+**Recommended version: Enhanced v2 Risk Register.**
 
 ## 2. Enhanced Workbook Structure
 
