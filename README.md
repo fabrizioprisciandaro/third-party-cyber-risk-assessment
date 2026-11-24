@@ -133,12 +133,15 @@ Treatment strategies focus on privileged access management, backup resilience, A
 
 ## 8. Project Deliverables
 
-### Assessment Documentation
+### Operational Registers
 
 | Deliverable | Description |
 |---|---|
-| [Methodology – DOCX](docs/Third_Party_Cyber_Risk_Assessment_Methodology_and_Treatment_Plan.docx) | Assessment methodology and treatment governance |
-| [Methodology – PDF](docs/Third_Party_Cyber_Risk_Assessment_Methodology_and_Treatment_Plan.pdf) | PDF version of the assessment methodology |
+| [Third-Party & Cyber Risk Register – Enhanced v2](registers/Third_Party_Cyber_Risk_Assessment_Register_Enhanced_v2.xlsx) | Recommended version featuring automated risk scoring, conservative residual risk assessment, ISO 27001:2022 and NIST CSF 2.0 mapping, and evidence governance |
+| [Enhanced Risk Register – Previous Version](registers/Third_Party_Cyber_Risk_Assessment_Register_Enhanced.xlsx) | Previous version featuring automated scoring and evidence traceability |
+| [Original Risk Register](registers/Third_Party_Cyber_Risk_Assessment_Register.xlsx) | Original baseline version retained for reference and comparison |
+
+**Recommended workbook:** Enhanced v2.
 
 ### Operational Registers
 
