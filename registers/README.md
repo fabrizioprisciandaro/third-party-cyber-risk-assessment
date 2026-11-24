@@ -1,138 +1,39 @@
 # Assessment Registers
 
-**Third-Party Cyber Risk Assessment | Operational Workbooks**
+This folder contains the operational registers developed for the Third-Party Cyber Risk Assessment portfolio project.
 
-This folder contains the operational Excel workbooks developed for the fictional Third-Party Cyber Risk Assessment case study.
+## Included Deliverables
 
-The enhanced workbook introduces automated risk calculations, evidence traceability and structured remediation tracking.
+The Enhanced v2 workbook provides an integrated set of six operational worksheets:
 
-## 1. Available Workbooks
+1. **Third-Party Register** – Supplier inventory, criticality, due diligence status and review requirements.
+2. **Cyber Risk Register** – Risk scenarios, inherent and residual scoring, control assessment, risk ownership and treatment decisions.
+3. **Treatment Plan** – Remediation actions, priorities, accountable owners, deadlines and status tracking.
+4. **Scoring & Mapping** – Risk assessment methodology, scoring criteria, decision thresholds and assessment guidance.
+5. **Evidence Log** – Evidence references, validation status, associated risks and supporting documentation requirements.
+6. **Framework Mapping** – Risk-level mapping to ISO/IEC 27001:2022 Annex A controls and NIST CSF 2.0 outcomes, including mapping rationale.
 
-## 1. Available Workbooks
+## Assessment Methodology
 
-| Workbook | Description |
-|---|---|
-| [Enhanced v2 Risk Register](Third_Party_Cyber_Risk_Assessment_Register_Enhanced_v2.xlsx) | Latest version featuring conservative residual risk assessment, revised ISO/NIST mapping and enhanced evidence governance |
-| [Enhanced Risk Register](Third_Party_Cyber_Risk_Assessment_Register_Enhanced.xlsx) | Previous version featuring automated scoring and evidence traceability |
-| [Original Risk Register](Third_Party_Cyber_Risk_Assessment_Register.xlsx) | Original baseline version retained for reference and comparison |
+The registers apply a structured, risk-based approach to third-party cybersecurity risk management, covering:
 
-**Recommended version: Enhanced v2 Risk Register.**
+- Supplier identification and criticality assessment
+- Due diligence and security control evaluation
+- Inherent and residual risk scoring
+- Evidence traceability and control effectiveness assessment
+- Risk treatment planning and accountability
+- Framework mapping and governance decisions
 
-## 2. Enhanced Workbook Structure
+## Assessment Reference Date
 
-The enhanced workbook contains five worksheets.
+The assessment reference date is **18 October 2026**.
 
-### 2.1 Third-Party Register
+All dates, supplier statuses, risk assessments and remediation deadlines represent a fictional point-in-time training scenario and must be interpreted relative to this reference date.
 
-Supplier inventory and classification, including:
+## Simulation Disclaimer
 
-- Supplier identification and service scope.
-- Business ownership and data processing.
-- System access and supplier criticality.
-- Due diligence status.
-- Expected and observed security controls.
-- Evidence references and identified gaps.
-- Linked cybersecurity risks.
-- Review cadence and next review dates.
+This project is an educational portfolio exercise based on a fictional Italian mid-sized e-commerce company.
 
-### 2.2 Cyber Risk Register
+All supplier names, organisational roles, risk scenarios, evidence references, assessment results and remediation activities are synthetic.
 
-Structured assessment of third-party cybersecurity risks, including:
-
-- Risk scenarios and affected assets.
-- Inherent Likelihood and Impact.
-- Inherent Risk Score and Rating.
-- Existing and planned security controls.
-- Control effectiveness assessment.
-- Residual Likelihood and Impact.
-- Residual Risk Score and Rating.
-- Risk treatment strategy and ownership.
-- ISO/IEC 27001:2022 and NIST CSF 2.0 mapping.
-- Treatment threshold decisions.
-
-Risk scores and ratings are calculated using spreadsheet formulas.
-
-### 2.3 Treatment Plan
-
-Tracks remediation activities and accountability:
-
-- Action and risk identification.
-- Remediation deliverables.
-- Acceptance evidence.
-- Assigned action owners.
-- Due dates and priorities.
-- Treatment status and dependencies.
-- Days between assessment reference date and target date.
-- Due-date position relative to the assessment snapshot.
-
-### 2.4 Scoring & Mapping
-
-Documents the assessment methodology, including:
-
-- Likelihood and Impact scales.
-- Risk scoring thresholds.
-- Assessment reference date.
-- Risk evaluation guidance.
-- Framework mapping references.
-
-### 2.5 Evidence Log
-
-Provides traceability between suppliers, risks and supporting documentation.
-
-Each evidence reference includes:
-
-- Evidence ID.
-- Related supplier and risk IDs.
-- Evidence description and type.
-- Availability and review status.
-- Evidence date or period.
-- Scope and coverage.
-- Review outcome and limitations.
-- Reviewer or responsible owner.
-- Verification notes.
-
-Evidence references are simulated. Items marked as required for validation represent expected documentation, not independently verified evidence.
-
-## 3. Risk Scoring Model
-
-**Risk Score = Likelihood × Impact**
-
-Both Likelihood and Impact are assessed on a 1–5 scale.
-
-| Score | Risk Rating |
-|---|---|
-| 1–4 | Low |
-| 5–9 | Medium |
-| 10–15 | High |
-| 16–25 | Critical |
-
-The workbook distinguishes inherent risk from residual risk after considering the effectiveness of security controls.
-
-Residual risk decisions remain subject to risk-owner review and organisational risk appetite.
-
-## 4. Assessment Reference Date
-
-**18 October 2026**
-
-All supplier review dates, remediation deadlines and treatment statuses must be interpreted relative to this fictional assessment snapshot.
-
-The assessment is a point-in-time simulation, not a representation of current supplier security status.
-
-## 5. Framework References
-
-The assessment uses:
-
-- ISO/IEC 27001:2022, including relevant Annex A controls.
-- NIST Cybersecurity Framework (CSF) 2.0.
-
-Framework mappings are indicative and based on control intent and cybersecurity outcomes. They do not represent one-to-one equivalences or certification claims.
-
-## 6. Important Limitations
-
-This is an educational portfolio case study.
-
-All supplier names, evidence references, risk scenarios, assessment results and treatment activities are fictional.
-
-Evidence references must not be interpreted as proof that actual supplier documentation was obtained, reviewed or independently validated.
-
-The workbook does not constitute an independent security audit, formal assurance report or certification assessment.
+The registers demonstrate a simulated Third-Party Risk Management process and must not be interpreted as real audit findings, verified supplier assessments or actual organisational risk decisions.
