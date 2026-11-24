@@ -4,7 +4,7 @@ This folder contains the operational registers developed for the Third-Party Cyb
 
 ## Included Deliverables
 
-The Enhanced v2 workbook provides an integrated set of six operational worksheets:
+The Enhanced v2.1 workbook provides an integrated set of six operational worksheets, incorporating updated NIST CSF 2.0 outcome references and framework mapping validation:
 
 1. **Third-Party Register** – Supplier inventory, criticality, due diligence status and review requirements.
 2. **Cyber Risk Register** – Risk scenarios, inherent and residual scoring, control assessment, risk ownership and treatment decisions.
@@ -12,6 +12,14 @@ The Enhanced v2 workbook provides an integrated set of six operational worksheet
 4. **Scoring & Mapping** – Risk assessment methodology, scoring criteria, decision thresholds and assessment guidance.
 5. **Evidence Log** – Evidence references, validation status, associated risks and supporting documentation requirements.
 6. **Framework Mapping** – Risk-level mapping to ISO/IEC 27001:2022 Annex A controls and NIST CSF 2.0 outcomes, including mapping rationale.
+
+### Version and Methodology Notes
+
+- **Current version:** Enhanced v2.1.
+- **Framework alignment:** ISO/IEC 27001:2022 and NIST CSF 2.0.
+- **NIST mapping:** Updated outcome references aligned with the official NIST CSF 2.0 taxonomy.
+- **Mapping approach:** Direct and Supporting relationships are based on documented assessment rationale and professional interpretation.
+- **Data status:** All supplier information, risk scenarios, assessment results and supporting evidence references are fictional and intended for educational and portfolio purposes.
 
 ## Assessment Methodology
 
